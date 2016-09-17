@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 34f9234b321c7994c9212d471dbd8045
+timeCreated: 1473962197
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armature_pluto
+    100002: Bone
+    100004: chest
+    100006: CTRfoot_B.L
+    100008: CTRfoot_B.R
+    100010: CTRfoot_F.L
+    100012: CTRfoot_F.R
+    100014: Dog
+    100016: //RootNode
+    100018: ear1.L
+    100020: ear1.R
+    100022: ear2.L
+    100024: ear2.R
+    100026: eyeball.L
+    100028: eyeball.R
+    100030: eyelidBottom.L
+    100032: eyelidBottom.R
+    100034: eyelidTop.L
+    100036: eyelidTop.R
+    100038: foot_B.L
+    100040: foot_B.R
+    100042: foot_F.L
+    100044: foot_F.R
+    100046: head
+    100048: hip
+    100050: IKhip
+    100052: lookAt.L
+    100054: lookAt.R
+    100056: neck
+    100058: shin_B.L
+    100060: shin_B.R
+    100062: shin_F.L
+    100064: shin_F.R
+    100066: shoulder.L
+    100068: shoulder.R
+    100070: spine
+    100072: tail_0
+    100074: tail_1
+    100076: tail_3
+    100078: thigh.L
+    100080: thigh.R
+    100082: toe_B.L
+    100084: toe_B.R
+    100086: toe_F.L
+    100088: toe_F.R
+    100090: tongue_0
+    100092: tongue_2
+    100094: Torus.001
+    100096: tounge_1
+    100098: upper_arm.L
+    100100: upper_arm.R
+    400000: armature_pluto
+    400002: Bone
+    400004: chest
+    400006: CTRfoot_B.L
+    400008: CTRfoot_B.R
+    400010: CTRfoot_F.L
+    400012: CTRfoot_F.R
+    400014: Dog
+    400016: //RootNode
+    400018: ear1.L
+    400020: ear1.R
+    400022: ear2.L
+    400024: ear2.R
+    400026: eyeball.L
+    400028: eyeball.R
+    400030: eyelidBottom.L
+    400032: eyelidBottom.R
+    400034: eyelidTop.L
+    400036: eyelidTop.R
+    400038: foot_B.L
+    400040: foot_B.R
+    400042: foot_F.L
+    400044: foot_F.R
+    400046: head
+    400048: hip
+    400050: IKhip
+    400052: lookAt.L
+    400054: lookAt.R
+    400056: neck
+    400058: shin_B.L
+    400060: shin_B.R
+    400062: shin_F.L
+    400064: shin_F.R
+    400066: shoulder.L
+    400068: shoulder.R
+    400070: spine
+    400072: tail_0
+    400074: tail_1
+    400076: tail_3
+    400078: thigh.L
+    400080: thigh.R
+    400082: toe_B.L
+    400084: toe_B.R
+    400086: toe_F.L
+    400088: toe_F.R
+    400090: tongue_0
+    400092: tongue_2
+    400094: Torus.001
+    400096: tounge_1
+    400098: upper_arm.L
+    400100: upper_arm.R
+    2300000: eyeball.L
+    2300002: eyeball.R
+    2300004: eyelidBottom.L
+    2300006: eyelidBottom.R
+    2300008: eyelidTop.L
+    2300010: eyelidTop.R
+    2300012: Torus.001
+    3300000: eyeball.L
+    3300002: eyeball.R
+    3300004: eyelidBottom.L
+    3300006: eyelidBottom.R
+    3300008: eyelidTop.L
+    3300010: eyelidTop.R
+    3300012: Torus.001
+    4300000: Torus.001
+    4300002: eyeball.L
+    4300004: eyeball.R
+    4300006: eyelidTop.L
+    4300008: eyelidBottom.L
+    4300010: eyelidTop.R
+    4300012: eyelidBottom.R
+    4300014: Dog
+    7400000: armature_pluto|PoseLib
+    7400002: armature_pluto|walk
+    9500000: //RootNode
+    13700000: Dog
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: armature_pluto|PoseLib
+      takeName: armature_pluto|PoseLib
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: armature_pluto
+        weight: 1
+      - path: armature_pluto/Bone
+        weight: 1
+      - path: armature_pluto/Bone/lookAt.L
+        weight: 1
+      - path: armature_pluto/Bone/lookAt.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L/foot_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L/toe_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R/foot_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R/toe_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L/foot_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L/toe_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R/foot_F.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R/toe_F.R
+        weight: 1
+      - path: armature_pluto/IKhip
+        weight: 1
+      - path: armature_pluto/IKhip/hip
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.L/ear2.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.R/ear2.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0/tounge_1
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0/tounge_1/tongue_2
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L/upper_arm.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L/upper_arm.L/shin_F.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R/upper_arm.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R/upper_arm.R/shin_F.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0/tail_1
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0/tail_1/tail_3
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.L/shin_B.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.R/shin_B.R
+        weight: 1
+      - path: Dog
+        weight: 1
+      - path: eyeball.L
+        weight: 1
+      - path: eyeball.R
+        weight: 1
+      - path: eyelidBottom.L
+        weight: 1
+      - path: eyelidBottom.R
+        weight: 1
+      - path: eyelidTop.L
+        weight: 1
+      - path: eyelidTop.R
+        weight: 1
+      - path: Torus.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: armature_pluto|walk
+      takeName: armature_pluto|walk
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: armature_pluto
+        weight: 1
+      - path: armature_pluto/Bone
+        weight: 1
+      - path: armature_pluto/Bone/lookAt.L
+        weight: 1
+      - path: armature_pluto/Bone/lookAt.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L/foot_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.L/toe_B.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R/foot_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_B.R/toe_B.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L/foot_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.L/toe_F.L
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R/foot_F.R
+        weight: 1
+      - path: armature_pluto/CTRfoot_F.R/toe_F.R
+        weight: 1
+      - path: armature_pluto/IKhip
+        weight: 1
+      - path: armature_pluto/IKhip/hip
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.L/ear2.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/ear1.R/ear2.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0/tounge_1
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/chest/neck/head/tongue_0/tounge_1/tongue_2
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L/upper_arm.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.L/upper_arm.L/shin_F.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R/upper_arm.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/spine/shoulder.R/upper_arm.R/shin_F.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0/tail_1
+        weight: 1
+      - path: armature_pluto/IKhip/hip/tail_0/tail_1/tail_3
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.L/shin_B.L
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.R
+        weight: 1
+      - path: armature_pluto/IKhip/hip/thigh.R/shin_B.R
+        weight: 1
+      - path: Dog
+        weight: 1
+      - path: eyeball.L
+        weight: 1
+      - path: eyeball.R
+        weight: 1
+      - path: eyelidBottom.L
+        weight: 1
+      - path: eyelidBottom.R
+        weight: 1
+      - path: eyelidTop.L
+        weight: 1
+      - path: eyelidTop.R
+        weight: 1
+      - path: Torus.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
